@@ -1,2 +1,2 @@
 # DocLayoutTTS-Dataset
-DocLayoutTTS Dataset -- Releasing soon
+DocLayoutTTS Dataset introduced in paper "DocLayoutTTS: Dataset and Baselines for Layout-informed Document-level Neural Speech Synthesis" in InterSpeech 2022 -- Coming soon
