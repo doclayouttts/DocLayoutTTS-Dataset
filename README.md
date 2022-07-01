@@ -1,2 +1,2 @@
 # DocLayoutTTS-Dataset
-DocLayoutTTS Dataset
+DocLayoutTTS Dataset -- Releasing soon
